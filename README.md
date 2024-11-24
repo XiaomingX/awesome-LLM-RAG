@@ -1,5 +1,8 @@
 # Awesome-LLM-RAG [高级检索增强生成（RAG）]
 
+<img width="1180" alt="image" src="https://github.com/user-attachments/assets/68fcb39c-c891-480b-a3ac-a18325574e8e">
+
+
 ### 研讨会与教程
 - **个性化生成式人工智能**  
   *Zheng Chen 等*  
